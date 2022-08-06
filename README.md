@@ -11,4 +11,4 @@ Open Weather Map API: https://bit.ly/3Bu0k3i
 
 For more clarifications, remember check out this video: https://bit.ly/3oECF8Q
 
-Setup: run ```npm i && npm start``` to start the development server
+Setup run ```npm i && npm start``` to start the development server
