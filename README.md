@@ -7,7 +7,7 @@ Build and Deploy an advanced Travel Companion Application using Google Maps. Wit
 
 Remember to set up the ```.env``` file with your corresponding API private keys using RapidAPI:
 Travel Advisor API: https://bit.ly/3SomkD0 ,
-Open Weather Map API: https://bit.ly/3Bu0k3i
+Open Weather Map API =  https://bit.ly/3Bu0k3i
 
 For more clarifications, remember check out this video: https://bit.ly/3oECF8Q
 
