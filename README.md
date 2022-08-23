@@ -1,4 +1,4 @@
-# Travel Advisor App
+# Travel Advisor Application
 
 ![Travel Advisor](https://i.ibb.co/qph2cZn/image.pngg)
 
